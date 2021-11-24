@@ -23,6 +23,7 @@ body{
 input{
     border: 2px #07308a solid;
     font-size: 20px;
+    text-align: center;
 }
 
 p{
