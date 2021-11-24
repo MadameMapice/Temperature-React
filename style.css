@@ -1,0 +1,30 @@
+body{
+
+    font-family: 'Indie Flower', cursive;
+    background-image: url(/burbujas.gif);
+}
+
+
+.flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    box-shadow: 5px 5px 5px 0px #07308a, inset 4px 4px 15px 0px #07308a;
+    background: linear-gradient(to bottom right, #3e63a8, #abf7f1);
+    padding: 60px;
+    width: 50%;
+    font-size: 30px;
+    margin-top: 200px;
+    height: 300px;
+    
+}
+
+input{
+    border: 2px #07308a solid;
+    font-size: 20px;
+}
+
+p{
+    color: #07308a;
+}
